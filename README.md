@@ -1,4 +1,4 @@
-# Python Stock Analysis
+# Stock-Prediction-Using-Linear-Regression
 
 A Python-based stock analysis and prediction tool using data science libraries.
 
@@ -88,4 +88,4 @@ If you encounter any issues:
 - statsmodels
 - plotly
 - dash
-- dash-bootstrap-components 
+- dash-bootstrap-components
